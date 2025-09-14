@@ -1,0 +1,25 @@
+﻿start,end,value
+Primary donors,Multilateral organisations,17364.08611
+Primary donors,International NGOs,5132.880163
+Primary donors,Local/national actors,1261.675125
+Primary donors,Red Cross/Red Crescent,2172.697028
+Primary donors,Pooled funds,1739.343077
+Primary donors,Other,919.1701777
+Multilateral organisations,International actors,737.9978614
+International NGOs,International actors,53.24559067
+Local/national actors,International actors,39.75565171
+Red Cross/Red Crescent,International actors,0.189544036
+Pooled funds,International actors,1285.12815
+Other,International actors,42.25845178
+Multilateral organisations,Local/national_actors,628.5742057
+International NGOs,Local/national_actors,30.79789924
+Local/national actors,Local/national_actors,0.916662978
+Red Cross/Red Crescent,Local/national_actors,0.039147836
+Pooled funds,Local/national_actors,334.7222428
+Other,Local/national_actors,2.893406784
+Multilateral organisations,Unknown,15997.51404
+International NGOs,Unknown,5048.836673
+Local/national actors ,Unknown,1221.00281
+Red Cross/Red Crescent,Unknown,2172.468336
+Pooled funds,Unknown,119.4926847
+Other,Unknown,874.0183191
