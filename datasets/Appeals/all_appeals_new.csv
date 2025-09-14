@@ -1,0 +1,485 @@
+id,type,iso3,plan_name,year,funds,req
+454,Flash appeal,LBY,Libya Humanitarian Appeal 2014- 2015,2015,12158640,35738580
+455,Strategic response plan,SSD,South Sudan Strategic Response Plan 2015,2015,1064853227,1635521095
+456,Strategic response plan,SOM,Somalia Strategic Response Plan 2015,2015,369491289,862579628
+457,Strategic response plan,COD,République Démocratique du Congo Plan de Réponse Stratégique 2015,2015,390542616,692000000
+458,Strategic response plan,MMR,Myanmar Strategic Response Plan 2015,2015,133923386,265044894
+459,Strategic response plan,PSE,Occupied Palestinian Territory Strategic Response Plan 2015,2015,397911825,706051110
+460,Strategic response plan,SDN,Sudan Strategic Response Plan 2015,2015,578228027,1035894093
+461,Strategic response plan,SYR,Syrian Arab Republic Strategic Response Plan 2015,2015,1246812875,2893444593
+462,Strategic response plan,AFG,Afghanistan Strategic Response Plan 2015,2015,319427000,416666132
+463,Strategic response plan,CAF,République Centrafricaine Plan de Réponse Stratégique 2015,2015,311252375,612958926
+464,Strategic response plan,UKR,Ukraine Strategic Response Plan 2015,2015,173400221,316000000
+465,Strategic response plan,BFA,Burkina Faso Plan de Réponse Stratégique 2015,2015,30631658,98761764
+466,Strategic response plan,CMR,Cameroun Plan de Réponse Stratégique 2015,2015,129246961,264023457
+467,Strategic response plan,TCD,Tchad Plan de Réponse Stratégique 2015,2015,273912299,571597807
+468,Strategic response plan,GMB,Gambia Strategic Response Plan 2015,2015,1070709,23687972
+469,Strategic response plan,MLI,Mali Plan de Réponse Stratégique 2015,2015,132019390,377381530
+470,Strategic response plan,MRT,Mauritanie Plan de Réponse Stratégique 2015,2015,52157185,94565988
+471,Strategic response plan,NER,Niger Plan de Réponse Stratégique 2015,2015,209557014,375720263
+472,Strategic response plan,NGA,Nigeria Strategic Response Plan 2015,2015,57989983,100263495
+473,Strategic response plan,SEN,Sénégal Plan de Réponse Stratégique 2015,2015,12701130,59427358
+474,Humanitarian response plan,MLI;NER;NGA;SEN;BFA;TCD;GMB;MRT;CMR,Sahel Region Call for Humanitarian Aid 2015,2015,1583424,10336405
+477,Strategic response plan,YEM,Yemen Strategic Response Plan 2015,2015,874179946,1600821448
+478,Flash appeal,GTM,Guatemala Plan de Respuesta Sequia 2015,2015,398896,23806581
+479,Flash appeal,HND,Honduras Drought Emergency Response Plan 2015,2015,0,13200000
+480,Regional response plan,JOR;IRQ;TUR;EGY;LBN,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2015,2015,2781699249,4319944557
+481,Regional response plan,ETH;KEN;UGA,South Sudan Regional Refugee Response Plan 2015,2015,211330147,657794079
+482,Strategic response plan,DJI,Djibouti Plan de Réponse Stratégique 2015,2015,17367590,82001876
+483,Flash appeal,VUT,Vanuatu Emergency Response Plan for Tropical Cyclone PAM 2015,2015,21875957,37717721
+484,Strategic response plan,IRQ,Iraq Strategic Response Plan 2015,2015,518620961,704285754
+485,Other,PRK,DPR Korea Needs and Priorities 2015,2015,23415905,110895000
+486,Flash appeal,NPL,Nepal Flash Appeal Earthquake 2015,2015,280243624,421862342
+489,Flash appeal,HTI,Haiti Urgent Request for Humanitarian Funding 2015,2015,13300781,25520762
+,Regional response plan,,Burundi Regional RRP 2015,2015,782795334,2264819026
+,Regional response plan,,CAR Regional RRP 2015,2015,92829379,331193888
+,Regional response plan,,Nigeria Regional RRP 2015,2015,104618149,174409924
+,Regional response plan,,Yemen Regional RMRP 2015,2015,34817523,130543107
+487,Humanitarian response plan,LBY,Libya 2015-2016,2016,67351656,172466804
+488,Humanitarian response plan,BFA,Burkina Faso 2016,2016,54818928,90524923
+490,Humanitarian response plan,CMR,Cameroon 2016,2016,159411253,232209685
+491,Humanitarian response plan,TCD,Chad 2016,2016,281819021,541328374
+492,Humanitarian response plan,GMB,Gambia 2016,2016,440225,11454114
+493,Humanitarian response plan,MLI,Mali 2016,2016,146233710,354052695
+494,Humanitarian response plan,MRT,Mauritania 2016,2016,23237458,89209521
+495,Humanitarian response plan,NER,Niger 2016,2016,132659472,260473199
+496,Humanitarian response plan,NGA,Nigeria 2016,2016,270868013,484179598
+497,Humanitarian response plan,MLI;NER;NGA;SEN;BFA;TCD;GMB;MRT;CMR,Sahel 2016,2016,1194609,4900000
+498,Humanitarian response plan,SEN,Senegal 2016,2016,6525555,19917087
+500,Humanitarian response plan,IRQ,Iraq 2016,2016,758263602,860544743
+501,Humanitarian response plan,SYR,Syrian Arab Republic Humanitarian Response Plan 2016,2016,1729879261,3193669810
+502,Humanitarian response plan,SSD,Republic of South Sudan 2016,2016,1162668495,1291081324
+503,Humanitarian response plan,DJI,Djibouti 2016,2016,26233730,74802183
+504,Humanitarian response plan,PSE,occupied Palestinian territory 2016,2016,283756219,570702496
+505,Humanitarian response plan,SOM,Somalia 2016,2016,506861001,960294531
+506,Humanitarian response plan,HTI,Haiti 2016,2016,68468358,193786861
+507,Humanitarian response plan,UKR,Ukraine 2016,2016,105289272,297907511
+509,Humanitarian response plan,GTM,Guatemala 2016,2016,15938844,56690000
+510,Humanitarian response plan,HND,Honduras 2016,2016,5979788,44150000
+511,Humanitarian response plan,COD,Democratic Republic of the Congo 2016,2016,414772852,690000000
+512,Humanitarian response plan,AFG,Afghanistan 2016,2016,295256323,338833024
+513,Humanitarian response plan,YEM,Yemen Humanitarian Response Plan 2016,2016,1026191686,1632652363
+514,Regional response plan,JOR;IRQ;TUR;EGY;LBN,Syrian Arab Republic regional refugee and resilience plan (3RP) 2016,2016,2756240902,4539342335
+515,Humanitarian response plan,MMR,Myanmar 2016,2016,111248453,189500000
+516,Flash appeal,FJI,Fiji Tropical Cyclone Flash Appeal 2016,2016,21804002,38630049
+517,Humanitarian response plan,CAF,Central African Republic 2016,2016,196310154,531500000
+518,Humanitarian response plan,BDI,Burundi 2016,2016,61573090,62300000
+519,Humanitarian response plan,ZWE,Zimbabwe Humanitarian Response Plan 2016,2016,170923169,352318995
+520,Humanitarian response plan,SDN,Sudan 2016,2016,566363681,971776614
+521,Other,PRK,DPR Korea Needs and Priorities 2016,2016,37878003,142036722
+522,Flash appeal,ECU,Ecuador Earthquake Flash Appeal 2016,2016,27553006,72812862
+523,Flash appeal,IRQ,Mosul Flash Appeal 2016,2016,278628854,283700000
+524,Flash appeal,LBY,Libya - Sirte Flash Appeal 2016,2016,499057,10676371
+525,Flash appeal,AFG,Afghanistan Flash Appeal: One million people on the move (September - December 2016),2016,68494988,152100000
+527,Flash appeal,HTI,Haiti Flash Appeal: Hurricane Matthew 2016,2016,86399238,139026849
+534,Other,HRV;MKD;SVN;TUR;SRB;GRC,2016 Europe Situation -Regional Refugee and Migrant Response,2016,567434834,669867114
+,Regional response plan,,Burundi Regional RRP 2016,2016,162414549,323873645
+,Regional response plan,,CAR Regional RRP 2016,2016,113945447,343498781
+,Regional response plan,,Nigeria Regional RRP 2016,2016,88034757,198764278
+,Regional response plan,,South Sudan Regional RRP 2016,2016,338519174,759566304
+,Regional response plan,,Yemen Regional RMRP 2016,2016,34817523,94130732
+526,Humanitarian response plan,SYR,Syrian Arab Republic Humanitarian Response Plan 2017,2017,1906012989,3351303574
+528,Humanitarian response plan,SOM,Somalia 2017,2017,1037276047,1507846515
+529,Humanitarian response plan,PSE,occupied Palestinian territory 2017,2017,258817158,551876643
+530,Humanitarian response plan,NER,Niger 2017,2017,229812191,287273789
+531,Humanitarian response plan,UKR,Ukraine Humanitarian Response Plan 2017,2017,75992269,203608611
+532,Humanitarian response plan,TCD,Chad 2017,2017,242674695,588608263
+533,Humanitarian response plan,LBY,Libya 2017,2017,107693330,151013476
+535,Humanitarian response plan,MLI,Mali 2017,2017,142178003,304734494
+536,Humanitarian response plan,NGA,Nigeria 2017,2017,770220838,1054431494
+537,Humanitarian response plan,CMR,Cameroon 2017,2017,117510082,238094671
+538,Humanitarian response plan,SSD,Republic of South Sudan 2017,2017,1167694337,1639694893
+539,Humanitarian response plan,DJI,Djibouti 2017,2017,11719140,42977698
+540,Other,PAK,Pakistan Humanitarian Strategic Plan 2017,2017,125124955,339403724
+541,Humanitarian response plan,BDI,Burundi 2017,2017,47586669,73700000
+542,Humanitarian response plan,YEM,Yemen Humanitarian Response Plan 2017,2017,1757041004,2338796140
+543,Humanitarian response plan,HTI,Haiti 2017,2017,77366380,192223638
+544,Humanitarian response plan,AFG,Afghanistan 2017,2017,331838675,409413812
+545,Humanitarian response plan,MMR,Myanmar 2017,2017,110379682,150300000
+546,Humanitarian response plan,SEN,Senegal 2017,2017,3064159,15808722
+547,Humanitarian response plan,MRT,Mauritania 2017,2017,26177729,74500000
+548,Humanitarian response plan,BFA,Burkina Faso 2017,2017,29678897,61089000
+549,Humanitarian response plan,CAF,Central African Republic 2017,2017,232284892,497300000
+550,Humanitarian response plan,IRQ,Iraq 2017,2017,937472869,984647064
+551,Regional response plan,"",2017 Europe Situation - Regional Refugee and Migrant Response,2017,408617473,690935692
+552,Regional response plan,JOR;IRQ;TUR;EGY;LBN,Syria regional refugee and resilience plan (3RP) 2017,2017,3036003611,5575937077
+584,Humanitarian response plan,SDN,Sudan 2017,2017,477631025,803966226
+586,Flash appeal,MOZ,Mozambique Cyclone Dineo Flash Appeal 2017,2017,4929089,10246400
+587,Humanitarian response plan,COD,Democratic Republic of the Congo 2017,2017,478324965,812614297
+588,Humanitarian response plan,ETH,Ethiopia 2017,2017,660075252,1417400000
+589,Flash appeal,KEN,Kenya Flash Appeal 2017,2017,157687513,119865259
+590,Flash appeal,MDG,Madagascar Flash Appeal 2017,2017,13986476,20067549
+592,Other,PRK,DPR Korea Needs and Priorities 2017,2017,35442343,113502775
+593,Flash appeal,PER,Peru Flash Appeal 2017,2017,11568359,39472408
+626,Humanitarian response plan,COG,Republic of Congo 2017,2017,11057726,23700000
+628,Regional response plan,BGD,Bangladesh: Rohingya Refugee Crisis 2017,2017,314556678,434072000
+630,Other,ATG;MAF;BHS;AIA;TCA;VGB;BLM;KNA;SXM,Hurricane Irma: Regional Response Plan for the Caribbean Region (Sep to Dec 2017),2017,4433208,27054496
+631,Other,CUB,Cuba Plan of Action 2017,2017,13612830,55572174
+632,Flash appeal,DMA,Dominica Flash Appeal 2017,2017,20872210,31116613
+,Regional response plan,,Burundi Regional RRP 2017,2017,88998522,429309526
+,Regional response plan,,Nigeria Regional RRP 2017,2017,145260917,241157206
+,Regional response plan,,South Sudan Regional RRP 2017,2017,463437411,1382909572
+629,Humanitarian response plan,SYR,Syrian Arab Republic Humanitarian Response Plan 2018,2018,2108655152,3364350629
+633,Humanitarian response plan,PSE,Occupied Palestinian Territory Humanitarian Response Strategy 2018,2018,244057911,539721755
+634,Humanitarian response plan,IRQ,Iraq Humanitarian Response Plan 2018,2018,555925341,568745625
+635,Humanitarian response plan,SDN,Sudan Humanitarian Response Plan 2018,2018,611793451,1007555093
+636,Humanitarian response plan,LBY,Libya Humanitarian Response Plan 2018,2018,78197569,312740102
+637,Humanitarian response plan,TCD,Tchad Plan de Réponse Humanitaire 2018,2018,249428720,543769241
+638,Humanitarian response plan,MLI,Mali Plan de Réponse Humanitaire 2018,2018,178987000,329565482
+639,Humanitarian response plan,BDI,Burundi Plan de Réponse Humanitaire 2018,2018,81712616,141814441
+640,Humanitarian response plan,CMR,Cameroun Plan de Réponse Humanitaire 2018,2018,144311006,319676453
+641,Humanitarian response plan,UKR,Ukraine Humanitarian Response Plan 2018,2018,71016515,186909122
+642,Humanitarian response plan,NGA,Nigeria Humanitarian Response Plan 2018,2018,725037378,1047768587
+643,Humanitarian response plan,NER,Niger Plan de Réponse Humanitaire 2018,2018,179539906,338303089
+644,Humanitarian response plan,SOM,Somalia Humanitarian Response Plan 2018,2018,938200608,1542514570
+645,Humanitarian response plan,AFG,Afghanistan Humanitarian Response Plan 2018,2018,467613527,598923998
+646,Humanitarian response plan,SSD,South Sudan Humanitarian Response Plan 2018,2018,1201424186,1717890485
+648,Other,PAK,Pakistan Transition Plan: Humanitarian Component 2018,2018,75652885,123004259
+649,Humanitarian response plan,HTI,Haiti Humanitarian Response Plan 2018,2018,29852090,252200142
+651,Humanitarian response plan,CAF,République Centrafricaine Plan de Réponse Humanitaire 2018,2018,279873420,515600000
+652,Humanitarian response plan,COD,République Démocratique du Congo Plan de Réponse Humanitaire 2018,2018,827627340,1675200000
+653,Other,BFA,Burkina Faso Plan d'Urgence et de Résilience 2018,2018,56016914,90291110
+654,Other,SEN,Sénégal Plan de Travail Humanitaire 2018,2018,7540157,16833024
+655,Humanitarian response plan,MMR,Myanmar Interim Humanitarian Response Plan 2018,2018,138020304,183400000
+656,Regional response plan,BGD,Rohingya Humanitarian Crisis Joint Response Plan 2018,2018,688134210,950834205
+657,Humanitarian response plan,YEM,Yemen Humanitarian Response Plan 2018,2018,2504096111,3108067800
+659,Other,PRK,DPR Korea Needs and Priorities 2018,2018,32516164,111217000
+660,Humanitarian response plan,ETH,Ethiopia Humanitarian and Disaster Resilience Plan 2018,2018,651240764,1177218620
+661,Other,MRT,Mauritania  Plan de Travail Humanitaire 2018,2018,71342209,116000000
+665,Other,PHL,Philippines Marawi Conflict Humanitarian Response and Resources Overview 2018,2018,14669560,61004152
+669,Other,IDN,Indonesia Central Sulawesi Earthquake Response Plan 2018,2018,30691990,50500000
+,Regional response plan,,Burundi Regional RRP 2018,2018,130985089,391196905
+,Regional response plan,,DRC Regional RRP 2018,2018,163740231,472803912
+,Regional response plan,,Nigeria Regional RRP 2018,2018,78418703,156586701
+,Regional response plan,,South Sudan Regional RRP 2018,2018,694606920,1379415957
+,Regional response plan,,Syria Regional 3RP 2018,2018,3485165361,5608951510
+662,Humanitarian response plan,UKR,Ukraine Humanitarian Response Plan 2019,2019,85630793,164202538
+663,Humanitarian response plan,SYR,Syrian Arab Republic Humanitarian Response Plan 2019,2019,2286230075,3293416196
+664,Humanitarian response plan,PSE,Occupied Palestinian Territory Humanitarian Response Strategy 2019,2019,292549322,348536028
+667,Humanitarian response plan,SOM,Somalia Humanitarian Response Plan 2019,2019,891310195,1077453103
+668,Humanitarian response plan,TCD,Tchad Plan de Réponse Humanitaire 2019,2019,277569588,474414390
+670,Humanitarian response plan,SDN,Sudan Humanitarian Response Plan 2019,2019,605044446,1149139490
+671,Humanitarian response plan,IRQ,Iraq Humanitarian Response Plan 2019,2019,680827635,701154139
+672,Humanitarian response plan,AFG,Afghanistan Humanitarian Response Plan 2019,2019,456854207,611759986
+673,Humanitarian response plan,COD,République Démocratique du Congo Plan de Réponse Humanitaire 2019,2019,754835263,1653700000
+674,Humanitarian response plan,CAF,République Centrafricaine Plan de Réponse Humanitaire 2019,2019,297742149,430700000
+675,Humanitarian response plan,YEM,Yemen Humanitarian Response Plan 2019,2019,3641452540,4192680354
+676,Humanitarian response plan,NER,Niger Plan de Réponse Humanitaire 2019,2019,221069099,383101817
+677,Humanitarian response plan,ETH,Ethiopia Humanitarian Response Plan 2019,2019,640955633,844548490
+678,Humanitarian response plan,MMR,Myanmar Humanitarian Response Plan 2019,2019,180809849,214360000
+679,Humanitarian response plan,HTI,Haïti Plan de Réponse Humanitaire 2019,2019,41261689,126207627
+712,Humanitarian response plan,LBY,Libya Humanitarian Response Plan 2019,2019,99845621,201624438
+713,Humanitarian response plan,SSD,South Sudan Humanitarian Response Plan 2019,2019,1138599353,1507421344
+714,Humanitarian response plan,NGA,Nigeria Humanitarian Response Strategy 2019,2019,629986016,847703581
+716,Humanitarian response plan,MLI,Mali Plan de Réponse Humanitaire 2019,2019,167498298,323953738
+717,Other,PRK,DPR Korea Needs and Priorities 2019,2019,40655672,120345890
+718,Humanitarian response plan,CMR,Cameroun Plan de Réponse Humanitaire 2019,2019,129756096,298882369
+719,Regional response plan,BGD,Rohingya Humanitarian Crisis Joint Response Plan 2019,2019,691958903,919532129
+720,Other,PAK,Pakistan Response Plan 2019,2019,58325150,201961132
+721,Humanitarian response plan,BDI,Burundi Plan de Réponse Humanitaire 2019,2019,74825206,106286557
+722,Flash appeal,ZWE,Zimbabwe Flash Appeal 2019,2019,246252493,467934732
+724,Regional response plan,IRQ;TUR;EGY;JOR;LBN,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2019,2019,2383328049,5534930515
+727,Flash appeal,MDG,Madagascar Grand Sud Appel Éclair Conjoint 2019,2019,29535944,32438095
+761,Humanitarian response plan,MOZ,Mozambique Humanitarian Response Plan 2019,2019,323468251,620547627
+794,Other,BFA,Burkina Faso Plan d'Urgence 2019,2019,94122694,186965134
+827,Humanitarian response plan,VEN,Venezuela Plan de Respuesta Humanitaria 2019,2019,76925346,222724387
+829,Other,IRN,Islamic Republic of Iran Floods Response Plan 2019,2019,10741438,25000000
+,Regional response plan,,Burundi Regional RRP 2019,2019,81206213,292917608
+,Regional response plan,,DRC Regional RRP 2019,2019,155824401,719711214
+,Regional response plan,,Nigeria Regional RRP 2019,2019,62750655,136545154
+,Regional response plan,,South Sudan Regional RRP 2019,2019,592012408,1365963859
+,Regional response plan,,Venezuela Regional RMRP 2019,2019,387103491,737611378
+830,Humanitarian response plan,UKR,Ukraine Humanitarian Response Plan 2020,2020,123841159,204653234
+831,Humanitarian response plan,SOM,Somalia Humanitarian Response Plan 2020,2020,810861734,1009926527
+832,Humanitarian response plan,PSE,Occupied Palestinian Territory Humanitarian Response Plan 2020,2020,327431732,417658013
+865,Humanitarian response plan,SSD,South Sudan Humanitarian Response Plan 2020,2020,1235876749,1900799964
+866,Humanitarian response plan,IRQ,Iraq Humanitarian Response Plan 2020,2020,616522787,662168145
+869,Humanitarian response plan,NGA,Nigeria Humanitarian Response Plan 2020,2020,631852971,1080446613
+870,Humanitarian response plan,SDN,Sudan Humanitarian Response Plan 2020,2020,862061997,1633403129
+906,Regional response plan,BGD,Rohingya Humanitarian Crisis Joint Response Plan 2020,2020,630040127,1058092856
+907,Humanitarian response plan,TCD,Tchad Plan de Réponse Humanitaire 2020,2020,300500895,664641160
+908,Humanitarian response plan,NER,Niger Plan de Réponse Humanitaire 2020,2020,371443222,516074957
+913,Humanitarian response plan,MLI,Mali Plan de Réponse Humanitaire 2020,2020,235370648,474292180
+919,Humanitarian response plan,COD,République Démocratique du Congo Plan de Réponse Humanitaire 2020,2020,878944288,2069134820
+920,Humanitarian response plan,HTI,Haïti Plan de Réponse Humanitaire 2020,2020,153296222,471993035
+921,Humanitarian response plan,ZWE,Zimbabwe Humanitarian Response Plan 2020,2020,213865809,800670933
+922,Humanitarian response plan,BDI,Burundi Plan de Réponse Humanitaire 2020,2020,89049799,197893000
+923,Humanitarian response plan,CAF,République Centrafricaine Plan de Réponse Humanitaire 2020,2020,376984112,553622290
+924,Humanitarian response plan,SYR,Syrian Arab Republic Humanitarian Response Plan 2020,2020,2394505825,3817532832
+925,Humanitarian response plan,YEM,Yemen Humanitarian Response Plan 2020,2020,1991721070,3382681703
+927,Humanitarian response plan,CMR,Cameroon Humanitarian Response Plan 2020,2020,193144083,390811257
+928,Humanitarian response plan,VEN,Venezuela Plan de Respuesta Humanitaria con Panorama de Necesidades 2020,2020,182209352,762509363
+929,Humanitarian response plan,AFG,Afghanistan Humanitarian Response Plan 2020,2020,600940338,1131050820
+930,Humanitarian response plan,BFA,Burkina Faso Plan de Réponse Humanitaire 2020,2020,256510114,424357861
+931,Humanitarian response plan,LBY,Libya Humanitarian Response Plan 2020,2020,138340830,129846005
+934,Humanitarian response plan,MMR,Myanmar Humanitarian Response Plan 2020,2020,194038320,275300000
+935,Other,PRK,DPR Korea Needs and Priorities 2020,2020,31589615,107000000
+936,Humanitarian response plan,ETH,Ethiopia Humanitarian Response Plan 2020,2020,728694252,1250804122
+937,Other,ZMB,Zambia Humanitarian Appeal 2020,2020,27969390,89537019
+939,Flash appeal,DJI,Djibouti Flash Appeal 2020,2020,3862923,14251896
+943,Regional response plan,IRQ;EGY;JOR;TUR;LBN,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2020,2020,2343023569,5995975760
+948,Flash appeal,LSO,Lesotho Flash Appeal 2019-2020,2020,13733857,33745000
+950,Humanitarian response plan,COL,Colombia Plan de Respuesta Humanitaria 2020,2020,28915918,209700000
+952,Other,NER;PRK;KEN;NGA;GUY;PAN;MEX;BRA;CUW;NA;TTO;PER;URY;EGY;DJI;JOR;CRI;BFA;YEM;RWA;AGO;COG;ETH;TUR;PRY;ECU;SSD;SDN;SOM;IRQ;COD;LBN;CAF;MLI;BGD;ABW;CMR;UKR;UGA;VEN;TZA;ZMB;BOL;DOM;CHL;COL;TCD;AFG;SYR;ARG;LBY;IRN;PSE;MMR;HTI;BDI,GHRP (COVID) Global Humanitarian Response Plan 2020,2020,3711144257,
+985,Other,COL,Colombia Plan de Respuesta Intersectorial COVID-19 2020,2020,35750996,283920647
+986,Other,BEN,Bénin Plan de Réponse Intersectorielle COVID-19 2020,2020,3346554,17930000
+987,Other,IRN,Iran Intersectoral COVID-19 Response Plan 2020,2020,74082356,117284681
+988,Other,LBN,Lebanon Intersectoral COVID-19 Response Plan 2020,2020,120662589,136500000
+989,Other,LBR,Liberia Intersectoral COVID-19 Response Plan 2020,2020,7507918,57000000
+990,Other,MOZ,Mozambique UN Multi-Sector Response Plan to COVID-19,2020,67870378,68105000
+991,Other,PAK,Pakistan Intersectoral COVID-19 Response Plan 2020,2020,81074399,145788878
+992,Other,PHL,Philippines Intersectoral COVID-19 Response Plan 2020,2020,20662507,121767344
+993,Other,SLE,Sierra Leone Intersectoral COVID-19 Response Plan 2020,2020,20093035,62907725
+994,Other,TGO,Togo Plan de Réponse Intersectorielle COVID-19 2020,2020,5190103,19757534
+995,Other,PRK,DPR Korea Intersectoral COVID-19 Response Plan 2020,2020,3501684,39692162
+997,Other,MOZ,Cabo Delgado Province Mozambique Rapid Response Plan 2020,2020,53213421,35454000
+998,Other,BGD,Bangladesh Intersectoral COVID-19 Response Plan 2020,2020,56199523,205934700
+999,Other,ECU,Ecuador Plan de Respuesta Intersectorial COVID-19 2020,2020,20402674,46425000
+1000,Other,KEN,Kenya Intersectoral COVID-19 Response Plan 2020,2020,65024903,254870684
+1001,Other,TZA,Tanzania Intersectoral COVID-19 Response Plan 2020,2020,20517877,158874105
+1002,Other,ZMB,Zambia Intersectoral COVID-19 Response Plan 2020,2020,13796362,125612928
+1003,Other,DJI,Djibouti Intersectoral COVID-19 Response Plan 2020,2020,6685207,29983416
+1004,Other,UGA,Uganda Intersectoral COVID-19 Response Plan 2020,2020,33588509,200157127
+1005,Other,COG,République du Congo Plan de Réponse Intersectorielle COVID-19 2020,2020,3539451,11989124
+1008,Regional response plan,YEM;DJI;SOM;ETH,Regional Migrant Response Plan for the Horn of Africa and Yemen 2020,2020,15568790,43340000
+1009,Flash appeal,LBN,Lebanon Flash Appeal 2020,2020,160538721,196609142
+1010,Other,JOR,Jordan Intersectoral COVID-19 Response Plan 2020,2020,18304277,52845731
+,Regional response plan,,Burundi Regional RRP 2020,2020,119022025,298375206
+,Regional response plan,,DRC Regional RRP 2020,2020,142081468,638709377
+,Regional response plan,,South Sudan Regional RRP 2020,2020,361173541,1429908307
+,Regional response plan,,Venezuela Regional RMRP 2020,2020,713800000,1407580167
+1011,Humanitarian response plan,SOM,Somalia Humanitarian Response Plan 2021,2021,862339165,1092121872
+1012,Humanitarian response plan,PSE,Occupied Palestinian Territory Humanitarian Response Plan 2021,2021,376712998,417567330
+1013,Humanitarian response plan,SSD,South Sudan Humanitarian Response Plan 2021,2021,1220909157,1677772788
+1014,Humanitarian response plan,SDN,Sudan Humanitarian Response Plan 2021,2021,735458561,1939730880
+1015,Humanitarian response plan,UKR,Ukraine Humanitarian Response Plan 2021,2021,106445580,167982922
+1016,Humanitarian response plan,COL,Colombia Plan de Respuesta Humanitaria 2021,2021,84513962,174010305
+1021,Regional response plan,ECU;BRA;COL;MEX;CHL;DOM;TTO;PAN;BOL;ARG;CRI;CUW;PRY;URY;ABW;PER;GUY,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2021,2021,593827950,1439234410
+1023,Regional response plan,BGD,Rohingya Humanitarian Crisis Joint Response Plan 2021,2021,689644876,943123350
+1024,Humanitarian response plan,YEM,Yemen Humanitarian Response Plan 2021,2021,2423777697,3853456397
+1025,Humanitarian response plan,CAF,République Centrafricaine Plan de Réponse Humanitaire 2021,2021,408553372,444760000
+1026,Humanitarian response plan,COD,République Démocratique du Congo Plan de Réponse Humanitaire 2021,2021,870123605,1984303303
+1027,Humanitarian response plan,LBY,Libya Humanitarian Response Plan 2021,2021,155156497,189122124
+1028,Humanitarian response plan,TCD,Tchad Plan de Réponse Humanitaire 2021,2021,233847295,617522407
+1029,Humanitarian response plan,VEN,Venezuela Plan de Respuesta Humanitaria 2021,2021,284585695,708098081
+1030,Humanitarian response plan,CMR,Cameroon Humanitarian Response Plan  2021,2021,193289487,361554315
+1031,Humanitarian response plan,AFG,Afghanistan Humanitarian Response Plan 2021,2021,833236812,868666483
+1032,Humanitarian response plan,NGA,Nigeria Humanitarian Response Plan 2021,2021,714719766,1005897038
+1033,Humanitarian response plan,NER,Niger Plan de Réponse Humanitaire 2021,2021,271492166,523063280
+1034,Humanitarian response plan,PAK,Pakistan Humanitarian Response Plan 2021,2021,345079875,332043165
+1035,Humanitarian response plan,IRQ,Iraq Humanitarian Response Plan 2021,2021,393904487,607196803
+1036,Humanitarian response plan,MLI,Mali Plan de Réponse Humanitaire 2021,2021,228275601,563286869
+1037,Humanitarian response plan,BFA,Burkina Faso Plan de Réponse Humanitaire 2021,2021,312447454,607875894
+1038,Regional response plan,DJI;ETH;YEM;SOM,Regional Migrant Response Plan for the Horn of Africa and Yemen 2021,2021,36784410,68193940
+1039,Humanitarian response plan,BDI,Burundi Plan de Réponse Humanitaire 2021,2021,90170102,194684000
+1040,Humanitarian response plan,MOZ,Mozambique Humanitarian Response Plan 2021,2021,201068691,254080356
+1041,Humanitarian response plan,ETH,Ethiopia Humanitarian Response Plan 2021,2021,719138109,1488027181
+1042,Humanitarian response plan,ZWE,Zimbabwe Humanitarian Response Plan 2021,2021,86203940,506769226
+1043,Humanitarian response plan,HTI,Haïti Plan de Réponse Humanitaire 2021,2021,65475775,235595167
+1044,Humanitarian response plan,SYR,Syrian Arab Republic Humanitarian Response Plan 2021,2021,2315986080,4224416702
+1045,Flash appeal,HND,Honduras Tropical Storm Eta Flash Appeal 2021,2021,86112279,90089849
+1046,Humanitarian response plan,MMR,Myanmar Humanitarian Response Plan 2021,2021,240522511,276455939
+1047,Flash appeal,MDG,Madagascar Grand Sud Flash Appeal 2021,2021,119164991,166188813
+1048,Other,NPL,Nepal Intersectoral COVID-19 Response Plan 2021,2021,5192974,83621252
+1049,Flash appeal,PSE,Escalation of Hostilities in the OPT  Flash Appeal 2021,2021,62629879,89038235
+1050,Other,LBN,Lebanon Emergency Response Plan 2021,2021,135676725,167696906
+1051,Other,MMR,Myanmar Interim Emergency Response Plan 2021,2021,15665227,109161826
+1052,Humanitarian response plan,GTM,Guatemala Plan de Respuesta Humanitaria 2021,2021,38367049,56291832
+1053,Humanitarian response plan,HND,Honduras Plan de Respuesta Humanitaria 2021,2021,19672475,66138378
+1054,Humanitarian response plan,SLV,El Salvador Plan de Respuesta Humanitaria 2021,2021,22070444,42156698
+1055,Flash appeal,ETH,Northern Ethiopia Response Plan 2021,2021,667012827,956952000
+1056,Flash appeal,HTI,Haiti Earthquake Flash Appeal 2021,2021,77677979,187295000
+1057,Flash appeal,AFG,Afghanistan Flash Appeal 2021,2021,998242768,606261163
+1073,Flash appeal,KEN,Kenya Drought Flash Appeal 2021,2021,29535495,69749280
+,Regional response plan,,Afghanistan Regional RRP 2021,2021,175071670,299210282
+,Regional response plan,,Burundi Regional RRP 2021,2021,74588191,222592188
+,Regional response plan,,DRC Regional RRP 2021,2021,128860445,585115118
+,Regional response plan,,South Sudan Regional RRP 2021,2021,241993661,1211784148
+,Regional response plan,,Syria Regional 3RP 2021,2021,2540013127,5576686179
+1059,Humanitarian response plan,PSE,Occupied Palestinian Territory Humanitarian Response Plan 2022,2022,462693276,509872202
+1060,Humanitarian response plan,LBY,Libya Humanitarian Response Plan 2022,2022,93699805,113799273
+1062,Humanitarian response plan,NGA,Nigeria Humanitarian Response Plan 2022,2022,752841687,1127211641
+1063,Humanitarian response plan,SOM,Somalia Humanitarian Response Plan 2022,2022,2096011092,2267407090
+1064,Humanitarian response plan,CAF,République Centrafricaine Plan de Réponse Humanitaire 2022,2022,444508684,461253975
+1066,Regional response plan,DJI;YEM;SOM;ETH,Regional Migrant Response Plan for the Horn of Africa and Yemen 2022,2022,38798713,41579330
+1067,Flash appeal,MDG,Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2022,2022,192417844,219267779
+1068,Humanitarian response plan,SDN,Sudan Humanitarian Response Plan 2022,2022,1122473152,1936697740
+1069,Regional response plan,MEX;PER;TTO;ABW;BOL;ARG;CRI;DOM;ECU;COL;BRA;CHL;CUW;GUY;PRY;URY;PAN,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2022,2022,632101790,1786198773
+1071,Regional response plan,ETH;KEN;UGA,South Sudan Regional Refugee Response Plan 2022,2022,665767428,873323126
+1072,Regional response plan,IRQ;JOR;EGY;TUR;LBN,Syrian Arab Republic Regional Refugee and Resilience Plan (3RP) 2022,2022,1870677554,6080899576
+1075,Humanitarian response plan,BDI,Burundi Plan de Réponse Humanitaire 2022,2022,77392946,182414025
+1076,Humanitarian response plan,MLI,Mali Plan de Réponse Humanitaire 2022,2022,304209351,685734819
+1077,Humanitarian response plan,YEM,Yemen Humanitarian Response Plan 2022,2022,2313336986,4271938417
+1078,Humanitarian response plan,NER,Niger Plan de Réponse Humanitaire 2022,2022,384013260,552598446
+1079,Humanitarian response plan,ETH,Ethiopia Humanitarian Response Plan 2022,2022,1710543291,3335002211
+1080,Humanitarian response plan,CMR,Cameroon Humanitarian Response Plan 2022,2022,205744653,376046051
+1082,Regional response plan,BGD,Rohingya Humanitarian Crisis Joint Response Plan 2022,2022,619533235,881030780
+1083,Humanitarian response plan,IRQ,Iraq Humanitarian Response Plan 2022,2022,361494540,400004347
+1084,Humanitarian response plan,SLV,El Salvador Plan de Respuesta Humanitaria 2022,2022,33391763,114317607
+1085,Humanitarian response plan,GTM,Guatemala Plan de Respuesta Humanitaria 2022,2022,56937681,153531304
+1086,Humanitarian response plan,HND,Honduras Plan de Respuesta Humanitaria 2022,2022,66868714,155296363
+1087,Humanitarian response plan,BFA,Burkina Faso Plan de Réponse Humanitaire 2022,2022,353607526,805099698
+1088,Humanitarian response plan,SYR,Syrian Arab Republic Humanitarian Response Plan 2022 - 2023,2022,2356720106,4443672111
+1090,Humanitarian response plan,COL,Colombia Plan de Respuesta Humanitaria 2022,2022,119090832,282854048
+1091,Humanitarian response plan,TCD,Tchad Plan de Réponse Humanitaire 2022,2022,314261127,510909899
+1092,Regional response plan,ZMB;TZA;RWA;UGA;AGO;COG,Democratic Republic of the Congo Regional Refugee Response Plan 2022,2022,208196610,596731397
+1093,Humanitarian response plan,COD,République Démocratique du Congo Plan de Réponse Humanitaire 2022,2022,1004904076,1881674597
+1094,Humanitarian response plan,MOZ,Mozambique Humanitarian Response Plan 2022,2022,272254554,388499803
+1095,Humanitarian response plan,MMR,Myanmar Humanitarian Response Plan 2022,2022,374771795,825698032
+1096,Humanitarian response plan,HTI,Haïti Plan de Réponse Humanitaire 2022,2022,192866899,373165734
+1097,Humanitarian response plan,VEN,Venezuela Plan de Respuesta Humanitaria 2022,2022,282678654,794987748
+1098,Humanitarian response plan,SSD,South Sudan Humanitarian Response Plan 2022,2022,1252742245,1699588587
+1099,Other,LBN,Lebanon Emergency Response Plan 2022,2022,331289889,378175867
+1100,Humanitarian response plan,AFG,Afghanistan Humanitarian Response Plan 2022,2022,3277683580,4442200000
+1101,Other,PHL,Philippines Super Typhoon Rai (Odette) Humanitarian Needs and Priorities 2022,2022,95266302,168906963
+1102,Flash appeal,UKR,Ukraine Flash Appeal 2022,2022,3810148786,4292463880
+1104,Flash appeal,MWI,Malawi Flash Appeal 2022,2022,21444352,29450000
+1105,Flash appeal,KEN,Kenya Drought Flash Appeal 2022,2022,191557473,289641587
+1106,Flash appeal,MOZ,Mozambique Gombe Emergency Response Plan 2022,2022,22794505,48073854
+1107,Other,LKA,Sri Lanka Multi-Dimensional Crisis Humanitarian Needs and Priorities 2022,2022,129391986,149692653
+1108,Other,PAK,Pakistan Floods Response Plan 2022,2022,366003309,472308627
+1146,Other,CUB,Cuba Hurricane Ian Response - Plan of Action 2022,2022,8396222,41817107
+1147,Flash appeal,HTI,Haïti Choléra+ Appel Éclair 2022,2022,14370779,145600234
+,Regional response plan,,Afghanistan Regional RRP 2022,2022,325838278,623415539
+,Regional response plan,,Ukraine Regional RRP 2022,2022,1288660785,1789936991
+1109,Humanitarian response plan,PSE,Occupied Palestinian Territory Humanitarian Response Plan 2023,2023,367020855,376729201
+1110,Humanitarian response plan,NGA,Nigeria Humanitarian Response Plan 2023,2023,577258700,1311953516
+1111,Humanitarian response plan,SSD,South Sudan Humanitarian Response Plan 2023,2023,1156353741,2055885216
+1112,Humanitarian response plan,BFA,Burkina Faso Plan de Réponse Humanitaire 2023,2023,346795713,876731475
+1113,Humanitarian response plan,COD,République Démocratique du Congo Plan de Réponse Humanitaire 2023,2023,954424326,2252684083
+1114,Humanitarian response plan,SYR,Syrian Arab Republic Humanitarian Response Plan 2023,2023,2220662167,5413802598
+1115,Humanitarian response plan,CMR,Cameroon Humanitarian Response Plan 2023,2023,141192164,407309869
+1116,Humanitarian response plan,YEM,Yemen Humanitarian Response Plan 2023,2023,1776597284,4344155316
+1117,Humanitarian response plan,AFG,Afghanistan Humanitarian Response Plan 2023,2023,1678341318,3227372908
+1119,Regional response plan,ZMB;COG;RWA;TZA;AGO;UGA,Democratic Republic of the Congo Regional Refugee Response Plan 2023,2023,169524727,549404765
+1120,Regional response plan,DJI;SOM;ETH,Regional Migrant Response Plan for the Horn of Africa and Yemen 2023,2023,41349782,60414277
+1121,Humanitarian response plan,HTI,Haïti Plan de Réponse Humanitaire 2023,2023,247969685,719857713
+1122,Humanitarian response plan,MLI,Mali Plan de Réponse Humanitaire 2023,2023,238748118,751470941
+1123,Humanitarian response plan,SDN,Sudan Humanitarian Response Plan 2023,2023,1321660847,2565230201
+1124,Humanitarian response plan,UKR,Ukraine Humanitarian Response Plan 2023,2023,2932609915,3945656687
+1125,Regional response plan,KEN;UGA;ETH,South Sudan Regional Refugee Response Plan 2023,2023,304730716,950234784
+1128,Humanitarian response plan,ETH,Ethiopia Humanitarian Response Plan 2023,2023,1471649468,3994813508
+1129,Regional response plan,PRY;MEX;CUW;ECU;BRA;COL;PAN;CRI;ARG;GUY;CHL;ABW;TTO;PER;URY;DOM;BOL,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2023,2023,612835798,1715042189
+1130,Humanitarian response plan,CAF,République Centrafricaine Plan de Réponse Humanitaire 2023,2023,348349026,533305798
+1131,Humanitarian response plan,MOZ,Mozambique Humanitarian Response Plan 2023,2023,213586611,512912994
+1132,Humanitarian response plan,MMR,Myanmar Humanitarian Response Plan 2023,2023,406096179,886738899
+1133,Humanitarian response plan,SOM,Somalia Humanitarian Response Plan 2023,2023,1231965888,2599161218
+1134,Other,LBN,Lebanon Emergency Response Plan 2023,2023,109540696,200203540
+1135,Humanitarian response plan,VEN,Venezuela Plan de Respuesta Humanitaria 2023,2023,402163274,719581691
+1136,Flash appeal,MDG,Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2023,2023,164046294,214681354
+1137,Flash appeal,KEN,Kenya Drought Response Plan 2023,2023,370521464,451825224
+1138,Humanitarian response plan,SLV,El Salvador Plan de Respuesta Humanitaria 2023,2023,30861174,98416155
+1139,Humanitarian response plan,GTM,Guatemala Plan de Respuesta Humanitaria 2023,2023,40857781,126145348
+1140,Other,PAK,Pakistan Floods Response Plan 2023,2023,257189950,344007921
+1141,Humanitarian response plan,TCD,Tchad Plan de Réponse Humanitaire 2023,2023,417866727,920624766
+1142,Humanitarian response plan,COL,Colombia Plan de Respuesta Humanitaria 2023,2023,114385255,283317893
+1143,Regional response plan,BGD,Rohingya Humanitarian Crisis Joint Response Plan 2023,2023,620056690,875927365
+1144,Humanitarian response plan,HND,Honduras Plan de Respuesta Humanitaria 2023,2023,47824769,280360869
+1145,Humanitarian response plan,NER,Niger Plan de Réponse Humanitaire 2023,2023,295440185,583906619
+1148,Humanitarian response plan,BDI,Burundi Plan de Réponse Humanitaire 2023,2023,92380905,237180119
+1149,Flash appeal,SYR,Syria Earthquake Flash Appeal 2023,2023,413320665,397623464
+1150,Flash appeal,TUR,Türkiye Earthquake Flash Appeal 2023,2023,649951817,1006545000
+1151,Flash appeal,MWI,Malawi Cholera and Floods Flash Appeal 2023,2023,45949850,115945732
+1152,Other,MNG,Mongolia Dzud Early Action and Response Plan 2023,2023,2545388,5154000
+1153,Other,MOZ,"Mozambique Cyclone Freddy, Floods and Cholera Response Plan 2023",2023,32716965,138008861
+1154,Regional response plan,EGY;ETH,Sudan Emergency: Regional Refugee Response Plan 2023,2023,93886292,217629924
+1184,Flash appeal,LBY,Libya Flood Response Flash Appeal 2023,2023,43569501,37731860
+1186,Flash appeal,PSE,Escalation of Hostilities in the OPT Flash Appeal 2023,2023,638195247,629098307
+,Regional response plan,,Afghanistan Regional RRP 2023,2023,200605989,613012986
+,Regional response plan,,Syria Regional 3RP 2023,2023,1807906915,5856939097
+,Regional response plan,,Ukraine Regional RRP 2023,2023,730195519,1685495256
+1156,Flash appeal,PSE,Escalation of Hostilities in the OPT Flash Appeal 2024,2024,2583599759,3422855934
+1157,Humanitarian needs and response plan,SSD,South Sudan Humanitarian Needs and Response Plan 2024,2024,1272252342,1788817122
+1158,Humanitarian response plan,VEN,Venezuela Plan de Respuesta Humanitaria 2024,2024,173887338,617034811
+1159,Humanitarian response plan,CMR,Cameroon Humanitarian Response Plan 2024,2024,167852660,371369724
+1160,Humanitarian needs and response plan,MMR,Myanmar Humanitarian Needs and Response Plan 2024,2024,390652900,993548103
+1162,Regional response plan,BGD,Rohingya Humanitarian Crisis Joint Response Plan 2024,2024,582418124,852360782
+1163,Regional response plan,CUW;DOM;GUY;TTO;BOL;BRA;CRI;ARG;ABW;MEX;COL;CHL;PAN;PRY;URY;PER;ECU,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2024,2024,447308584,1587428979
+1164,Regional response plan,UGA;RWA;TZA;AGO;BDI;ZMB;COG,Democratic Republic of the Congo Regional Refugee Response Plan 2024,2024,352549866,668277343
+1165,Regional response plan,TZA;KEN;DJI;SOM;ETH,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2024,2024,28151884,73867855
+1169,Regional response plan,UGA;ETH;KEN,South Sudan Regional Refugee Response Plan 2024,2024,182846975,882019560
+1170,Regional response plan,ETH;EGY;LBY;UGA;CAF,Sudan Emergency: Regional Refugee Response Plan 2024,2024,144680292,504551939
+1171,Humanitarian response plan,CAF,République Centrafricaine Plan de Réponse Humanitaire 2024,2024,240717637,367670976
+1172,Humanitarian response plan,SLV,El Salvador Plan de Respuesta Humanitaria 2024,2024,24916923,86585525
+1173,Humanitarian response plan,GTM,Guatemala Plan de Respuesta Humanitaria 2024,2024,65075130,125401425
+1174,Humanitarian needs and response plan,HND,Honduras Necesidades Humanitarias y Plan de Respuesta 2024,2024,64825237,203159869
+1175,Humanitarian response plan,SYR,Syrian Arab Republic Humanitarian Response Plan 2024,2024,1455185193,4074158710
+1177,Humanitarian needs and response plan,UKR,Ukraine Humanitarian Needs and Response Plan 2024,2024,2400566861,3107702931
+1178,Humanitarian needs and response plan,HTI,Haïti Besoins Humanitaires et Plan de Réponse 2024,2024,296017048,673767352
+1179,Humanitarian response plan,BFA,Burkina Faso Plan de Réponse Humanitaire 2024,2024,430422360,934604385
+1180,Humanitarian needs and response plan,SOM,Somalia Humanitarian Needs and Response Plan 2024,2024,878439957,1585259297
+1181,Humanitarian needs and response plan,COL,Colombia Plan de Respuesta a Prioridades Comunitarias Colombia 2024 - 2025,2024,198391974,331990687
+1183,Humanitarian needs and response plan,MOZ,Mozambique Humanitarian Needs and Response Plan 2024,2024,174117104,413420177
+1185,Humanitarian needs and response plan,AFG,Afghanistan Humanitarian Needs and Response Plan 2024,2024,1625912286,3059587797
+1187,Humanitarian response plan,COD,République Démocratique du Congo Plan de Réponse Humanitaire 2024,2024,1356999041,2580627746
+1188,Humanitarian needs and response plan,SDN,Sudan Humanitarian Needs and Response Plan 2024,2024,1882130839,2695680744
+1189,Humanitarian needs and response plan,NER,Niger Besoins Humanitaires et Plan de Réponse 2024,2024,349347224,662192757
+1190,Humanitarian response plan,NGA,Nigeria Humanitarian Response Plan 2024,2024,555279510,926542686
+1191,Flash appeal,MDG,Madagascar Grand Sud and Grand Sud-Est Flash Appeal 2024,2024,121855725,162217809
+1192,Humanitarian needs and response plan,TCD,Tchad Besoins Humanitaires et Plan de Réponse 2024,2024,651718497,1124572823
+1193,Humanitarian response plan,YEM,Yemen Humanitarian Response Plan 2024,2024,1538351663,2705762394
+1194,Humanitarian needs and response plan,MLI,Mali Besoins Humanitaires et Plan de Réponse 2024,2024,277501029,701569941
+1195,Humanitarian response plan,ETH,Ethiopia Humanitarian Response Plan 2024,2024,1016887352,3235782784
+1196,Flash appeal,LBY,Libya Flood Response Flash Appeal 2024,2024,44146325,33667840
+1197,Other,MNG,Mongolia Dzud Response Plan 2024,2024,8487790,13658011
+1198,Flash appeal,ZMB,Zambia Drought Flash Appeal 2024,2024,57146421,106072207
+1199,Flash appeal,ZWE,Zimbabwe Drought Flash Appeal 2024,2024,103075025,286191117
+1200,Other,BDI,Burundi Plan de Réponse Inondations et Montée du Lac Tanganyika (Effets El-Niño) 2024,2024,25863157,26031040
+1201,Other,BGD,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2024,2024,27083922,98699293
+1202,Flash appeal,GRD,Grenada Hurricane Beryl Flash Appeal 2024,2024,2704066,7820962
+1204,Flash appeal,VCT,Saint Vincent and The Grenadines Hurricane Beryl Flash Appeal 2024,2024,1347786,8043236
+1206,Flash appeal,MWI,Malawi Drought Response Flash Appeal 2024,2024,43680531,79032838
+1207,Flash appeal,MOZ,Mozambique Drought Flash Appeal 2024,2024,37892436,89025047
+1209,Other,VNM,Viet Nam  Joint Response Plan for Typhoon Yagi and Floods 2024,2024,9591085,31716788
+1210,Flash appeal,LBN,Lebanon Flash Appeal 2024,2024,374811759,425745000
+1265,Other,NPL,Nepal Humanitarian Needs and Priorities Floods Response Plan 2024,2024,27173764,17530000
+1282,Other,SYR,Inter-Agency Emergency Appeal for the Influx from Lebanon to Syria 2024,2024,36235865,135664082
+1324,Other,PHL,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2024,2024,14312210,25342126
+,Regional response plan,,Afghanistan Regional RRP 2024,2024,180122580,620384634
+,Regional response plan,,Syria Regional 3RP 2024,2024,1893814342,4878300483
+,Regional response plan,,Ukraine Regional RRP 2024,2024,448165588,1080560000
+1208,Humanitarian needs and response plan,COL,Colombia Necesidades Humanitarias y Plan de Respuesta 2025,2025,48267180,342308343
+1211,Regional response plan,IRN;PAK,Afghanistan Situation Regional Refugee Response Plan 2025,2025,21266392,622010264
+1212,Regional response plan,BGD,Rohingya Humanitarian Crisis Joint Response Plan 2025,2025,143161061,934521017
+1214,Regional response plan,KEN;DJI;ETH;SOM;TZA,Regional Migrant Response Plan for Horn of Africa to Yemen and Southern Africa 2025,2025,8129700,61287055
+1216,Regional response plan,LBY;UGA;EGY;ETH,Sudan Emergency: Regional Refugee Response Plan 2025,2025,35911708,611760722
+1218,Regional response plan,SVK;POL;BGR;CZE;EST;MDA;HUN;ROU;LTU;LVA,Ukraine Situation Regional Refugee Response Plan 2025,2025,32991729,690313063
+1219,Regional response plan,BRA;ABW;MEX;CRI;GUY;ECU;URY;CHL;CUW;BOL;PAN;PRY;TTO;ARG;COL;DOM;PER,Venezuela Regional Refugee and Migrant Response Plan (RMRP) 2025,2025,70980276,1395806906
+1220,Humanitarian needs and response plan,SDN,Sudan Humanitarian Needs and Response Plan 2025,2025,547204833,4162518656
+1221,Humanitarian needs and response plan,SOM,Somalia Humanitarian Needs and Response Plan 2025,2025,157346039,1421988955
+1222,Humanitarian needs and response plan,MLI,Mali Besoins Humanitaires et Plan de Réponse 2025,2025,54952206,771314315
+1223,Humanitarian needs and response plan,SSD,South Sudan Humanitarian Needs and Response Plan 2025,2025,279592003,1694778653
+1256,Humanitarian needs and response plan,CAF,République Centrafricaine Besoins Humanitaires et Plan de Réponse 2025,2025,50881790,326056578
+1257,Humanitarian needs and response plan,HTI,Haiti Besoins Humanitaires et Plan de Réponse 2025,2025,68624374,908159989
+1259,Humanitarian needs and response plan,BFA,Burkina Faso Besoins Humanitaires et Plan de Réponse 2025,2025,103566803,792565236
+1260,Humanitarian needs and response plan,TCD,Tchad Besoins Humanitaires et Plan de Réponse 2025,2025,98370841,1454258243
+1261,Humanitarian needs and response plan,COD,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,2025,245515952,2538016151
+1262,Humanitarian needs and response plan,YEM,Yemen Humanitarian Needs and Response Plan 2025,2025,220169266,2478772922
+1263,Humanitarian needs and response plan,AFG,Afghanistan Humanitarian Needs and Response Plan 2025,2025,374831832,2416811546
+1264,Humanitarian needs and response plan,NER,Niger Besoins Humanitaires et Plan de Réponse 2025,2025,50206145,603027582
+1266,Humanitarian response plan,CMR,Cameroon Humanitarian Response Plan 2025,2025,38032216,359298328
+1267,Humanitarian needs and response plan,MOZ,Mozambique Humanitarian Needs and Response Plan 2025,2025,51913332,352096942
+1268,Humanitarian needs and response plan,SLV,El Salvador Necesidades Humanitarias y Plan de Respuesta 2025,2025,4549232,66923449
+1269,Humanitarian needs and response plan,GTM,Guatemala Necesidades Humanitarias y Plan de Respuesta 2025,2025,9063589,100563396
+1270,Humanitarian needs and response plan,HND,Honduras Necesidades Humanitarias y Plan de Respuesta 2025,2025,9453071,138491372
+1271,Humanitarian needs and response plan,UKR,Ukraine Humanitarian Needs and Response Plan 2025,2025,647643084,2633534010
+1273,Flash appeal,PSE,Escalation of Hostilities in the OPT Flash Appeal 2025,2025,631240324,4073058682
+1274,Humanitarian needs and response plan,NGA,Nigeria Humanitarian Needs and Response Plan 2025,2025,79665127,910246471
+1275,Humanitarian needs and response plan,MMR,Myanmar Original Humanitarian Needs and Response Plan 2025,2025,88433564,1137811569
+1276,Flash appeal,SYR,Syrian Arab Republic Humanitarian Response Priorities – January-June 2025,2025,205113116,2003205834
+1277,Humanitarian response plan,VEN,Venezuela Plan de Respuesta Humanitaria 2025,2025,38395524,606497714
+1278,Flash appeal,ZMB,Zambia Drought Flash Appeal 2025,2025,11514910,90919034
+1280,Flash appeal,ZWE,Zimbabwe Drought Flash Appeal 2025,2025,14171525,143095554
+1281,Flash appeal,MWI,Malawi Drought Response Flash Appeal 2025,2025,4289315,57478430
+1283,Other,VNM,Viet Nam Joint Response Plan for Typhoon Yagi and Floods 2025,2025,2128676,37218750
+1284,Other,BGD,Bangladesh Cyclone Remal and Monsoon Floods Response Plan 2025,2025,4998288,35614832
+1285,Flash appeal,MOZ,Mozambique Drought Flash Appeal 2025,2025,537648,133082917
+1286,Flash appeal,LBN,Lebanon Flash Appeal 2025,2025,81674367,371357000
+1325,Other,PHL,Philippines Tropical Cyclones and Floods Humanitarian Needs and Priorities 2025,2025,7771245,16880751
+1364,Flash appeal,MOZ,Mozambique Tropical Cyclones Flash Appeal 2025,2025,12201678,197543124
+1399,Humanitarian needs and response plan,MMR,Myanmar Earthquake HNRP Flash Addendum 2025,2025,38655309,275150034
+,Regional response plan,,Afghanistan Regional RRP 2025,2025,,624500000
+,Regional response plan,,DRC Regional RRP 2025,2025,,690200000
+,Regional response plan,,South Sudan Regional RRP 2025,2025,,851500000
+,Regional response plan,,Syria Regional 3RP 2025,2025,,4695216537
+,Humanitarian repsonse plan,ETH,Ethiopia Humanitarian Response Plan 2025,2025,0,2000000000
